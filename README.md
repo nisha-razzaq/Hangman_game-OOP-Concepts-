@@ -12,7 +12,7 @@ Guess the hidden word one letter at a time, track your misses, and complete the 
   <img src="https://img.shields.io/badge/Interface-Console-111827?style=for-the-badge&logo=windowsterminal&logoColor=white" alt="Console interface">
 </p>
 
-
+<img src="assets/hangman-console.png" alt="Real Hangman console gameplay output" width="900">
 
 </div>
 
@@ -24,6 +24,8 @@ Guess the hidden word one letter at a time, track your misses, and complete the 
 - **Replay loop** — finish a round and immediately start another without restarting the program.
 - **Input-friendly guessing** — lowercase letters are accepted and repeated or invalid guesses are ignored.
 - **Colorful Windows console UI** — cursor positioning and text colors keep the board easy to scan.
+
+> **Real gameplay:** the screenshot above is captured directly from the running game.
 
 ## 🕹️ How to play
 
