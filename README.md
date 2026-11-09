@@ -12,7 +12,7 @@ Guess the hidden word one letter at a time, track your misses, and complete the 
   <img src="https://img.shields.io/badge/Interface-Console-111827?style=for-the-badge&logo=windowsterminal&logoColor=white" alt="Console interface">
 </p>
 
-<img src="assets/hangman-preview.svg" alt="Stylized preview of the Hangman console game" width="900">
+
 
 </div>
 
@@ -86,11 +86,6 @@ Load words → Pick a secret word → Accept a letter
 - A cross-platform terminal layer
 - On-screen keyboard selection
 
-## 📄 License
-
-No license has been specified yet. Add one before distributing the project publicly.
-
-<div align="center">
 
 **Made with C++ and a little courage.**
 
